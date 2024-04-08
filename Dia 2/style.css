@@ -1,5 +1,10 @@
+body {
+  text-align: center
+}
 
-.circular-image {
-    border-radius: 50%; 
+
+img {
+    border-radius: 30%; 
     overflow: hidden; 
   }
+
