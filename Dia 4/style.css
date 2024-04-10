@@ -1,3 +1,6 @@
+*{
+    background-color: black;
+}
 .pag1{
     background-color: black;
     border-radius: 2%;
@@ -75,135 +78,23 @@
 
 
 
-.imagen2.1{
+.imagen2_1{
     border-radius: 2%;
     background-color: black;
-    top:12%;
-    left: 50%;
-    width:400px;
+    top:98%;
+    left: 29%;
     height:600px;
-    margin:%;
     position: absolute;
 }
 
 
 
-.imagen2.2{
-    border-radius: %;
-    background-color: black;
-    top:%;
-    left:%;
-    width: px;
-    margin: %;
-    position: absolute;
-}
 
 
 
-.imagen2.3{
-    border-radius: %;
-    background-color: black;
-    top:%;
-    left:%;
-    width: px;
-    margin: %;
-    position: absolute;
-}
 
 
 
-.imagen2.4{
-    border-radius: %;
-    background-color: black;
-    top:%;
-    left:%;
-    width: px;
-    margin: %;
-    position: absolute;
-}
-
-
-.imagen2.5{
-    border-radius: %;
-    background-color: black;
-    top:%;
-    left:%;
-    width: px;
-    margin: %;
-    position: absolute;
-}
-
-
-
-.imagen2.6{
-    border-radius: %;
-    background-color: black;
-    top:%;
-    left:%;
-    width: px;
-    margin: %;
-    position: absolute;
-}
-
-
-
-.imagen2.7{
-    border-radius: %;
-    background-color: black;
-    top:%;
-    left:%;
-    width: px;
-    margin: %;
-    position: absolute;
-}
-
-
-
-.imagen2.8{
-    border-radius: %;
-    background-color: black;
-    top:%;
-    left:%;
-    width: px;
-    margin: %;
-    position: absolute;
-}
-
-
-
-.imagen2.9{
-    border-radius: %;
-    background-color: black;
-    top:%;
-    left:%;
-    width: px;
-    margin: %;
-    position: absolute;
-}
-
-
-
-.imagen2.10{
-    border-radius: %;
-    background-color: black;
-    top:%;
-    left:%;
-    width: px;
-    margin: %;
-    position: absolute;
-}
-
-
-
-.imagen2.11{
-    border-radius: %;
-    background-color: black;
-    top:%;
-    left:%;
-    width: px;
-    margin: %;
-    position: absolute;
-}
 
 
 
@@ -223,16 +114,67 @@
 }
 
 
+
+
 .imagen3_1{
     border-radius: 15%;
     background-color: black;
     top:140%;
     left:30%;
     width:160px;
-    margin:;
     position: absolute;
 }
 
+
+.imagen3_2{
+    border-radius: 15%;
+    background-color: black;
+    top:65%;
+    left:2%;
+    width:160px;
+    position: absolute;
+}
+
+
+.imagen3_3{
+    border-radius: 15%;
+    background-color: black;
+    top:115%;
+    left:-120%;
+    width:160px;
+    position: absolute;
+}
+
+
+
+.imagen3_4{
+    border-radius: 15%;
+    background-color: black;
+    top:25%;
+    left:255%;
+    width:160px;
+    position: absolute;
+}
+
+
+.imagen3_5{
+    border-radius: 15%;
+    background-color: black;
+    top:100%;
+    left:25%;
+    width:160px;
+    position: absolute;
+}
+
+
+.imagen3_6{
+    border-radius: 15%;
+    background-color: black;
+    top:85%;
+    left:-10%;
+    width:160px;
+    position: absolute;
+}
 
 
 
@@ -243,56 +185,52 @@
 
 
 .pag4{
-    background-color: black;
+    background-color: rgb(0, 0, 0);
     border-radius: 2%;
     float: center;
     width:880px;
-    height: 600px;
+    height: 1000px;
     margin-top: 20px;
 
 }
 
 
 .imagen4_1{
-    border-radius: %;
+    border-radius: 15%;
     background-color: black;
-    top:%;
-    left:%;
-    width: px;
-    margin: %;
+    top:245%;
+    left:30%;
+    width:160px;
     position: absolute;
 }
 
 
 .imagen4_2{
-    border-radius: %;
+    border-radius: 15%;
     background-color: black;
-    top:%;
-    left:%;
-    width: px;
-    margin: %;
+    top:290%;
+    left:30%;
+    width:160px;
     position: absolute;
 }
 
 
 .imagen4_3{
-    border-radius: %;
+    border-radius: 15%;
     background-color: black;
-    top:%;
-    left:%;
-    width: px;
-    margin: %;
+    top:295%;
+    left:50%;
+    width:160px;
     position: absolute;
 }
 
 
 .imagen4_4{
-    border-radius: %;
+    border-radius: 15%;
     background-color: black;
-    top:%;
-    left:%;
-    width: px;
-    margin: %;
+    top:315%;
+    left:50%;
+    width:160px;
     position: absolute;
 }
 
