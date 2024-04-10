@@ -80,8 +80,8 @@
     background-color: black;
     top:12%;
     left: 50%;
-    width: 400px;
-    height: 600px;
+    width:400px;
+    height:600px;
     margin:%;
     position: absolute;
 }
@@ -217,87 +217,23 @@
     border-radius: 2%;
     float: center;
     width:880px;
-    height: 600px;
+    height: 1000px;
     margin-top: 20px;
 
 }
 
 
-.imagen3.1{
-    border-radius: %;
+.imagen3_1{
+    border-radius: 15%;
     background-color: black;
-    top:%;
-    left:%;
-    width: px;
-    margin: %;
+    top:140%;
+    left:30%;
+    width:160px;
+    margin:;
     position: absolute;
 }
 
 
-.imagen3.2{
-    border-radius: %;
-    background-color: black;
-    top:%;
-    left:%;
-    width: px;
-    margin: %;
-    position: absolute;
-}
-
-
-.imagen3.3{
-    border-radius: %;
-    background-color: black;
-    top:%;
-    left:%;
-    width: px;
-    margin: %;
-    position: absolute;
-}
-
-
-.imagen3.4{
-    border-radius: %;
-    background-color: black;
-    top:%;
-    left:%;
-    width: px;
-    margin: %;
-    position: absolute;
-}
-
-
-.imagen3.5{
-    border-radius: %;
-    background-color: black;
-    top:%;
-    left:%;
-    width: px;
-    margin: %;
-    position: absolute;
-}
-
-
-.imagen3.6{
-    border-radius: %;
-    background-color: black;
-    top:%;
-    left:%;
-    width: px;
-    margin: %;
-    position: absolute;
-}
-
-
-.imagen3.7{
-    border-radius: %;
-    background-color: black;
-    top:%;
-    left:%;
-    width: px;
-    margin: %;
-    position: absolute;
-}
 
 
 
@@ -317,7 +253,7 @@
 }
 
 
-.imagen4.1{
+.imagen4_1{
     border-radius: %;
     background-color: black;
     top:%;
@@ -328,7 +264,7 @@
 }
 
 
-.imagen4.2{
+.imagen4_2{
     border-radius: %;
     background-color: black;
     top:%;
@@ -339,7 +275,7 @@
 }
 
 
-.imagen4.3{
+.imagen4_3{
     border-radius: %;
     background-color: black;
     top:%;
@@ -350,7 +286,7 @@
 }
 
 
-.imagen4.4{
+.imagen4_4{
     border-radius: %;
     background-color: black;
     top:%;
